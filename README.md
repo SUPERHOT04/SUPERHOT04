@@ -4,11 +4,6 @@
 
 ![github-header-image (9)](https://github.com/user-attachments/assets/d3dcace2-63fa-428f-a06d-b845c1de342a)
 
-public class PrimeiroPrograma {
-    public static void main(String[] args) {
-        System.out.println("Ola Mundo ");
-    }
-}
 
 
 <!--
