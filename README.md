@@ -4,6 +4,12 @@
 
 ![github-header-image (9)](https://github.com/user-attachments/assets/d3dcace2-63fa-428f-a06d-b845c1de342a)
 
+public class PrimeiroPrograma {
+    public static void main(String[] args) {
+        System.out.println("Ola Mundo ");
+    }
+}
+
 
 <!--
 **SUPERHOT04/SUPERHOT04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
