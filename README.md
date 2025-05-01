@@ -8,11 +8,11 @@ Meu nome é Dalton Vianna tenho 21 anos e sou Desenvolvedor Frontend e Java e mo
 
 ## Sobre Mim
 
-👨🏽‍🎓 Formação:
+👨🏿‍🎓 Formação:
 
 Web Designer | T.I | Infraestrutura
 
-👨🏽‍🎓 Formação em andamento:
+👨🏿‍🎓 Formação em andamento:
 
 Ciencias da Computação 3/8
 
